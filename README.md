@@ -16,3 +16,7 @@ This repository contains recent background materials, current works, and codes f
 # Reading Materials
 
 * [Lecture Notes:Temporal Point Processes and the Conditional Intensity Function](https://arxiv.org/pdf/1806.00221.pdf)
+
+## Hawkes Process
+
+* [Hawkes Processes](https://arxiv.org/pdf/1507.02822.pdf)
