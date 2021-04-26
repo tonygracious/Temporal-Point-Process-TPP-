@@ -20,3 +20,9 @@ This repository contains recent background materials, current works, and codes f
 ## Hawkes Process
 
 * [Hawkes Processes](https://arxiv.org/pdf/1507.02822.pdf)
+
+### Recent Papers 
+
+* [Hawkes Processes on Graphons](https://arxiv.org/pdf/2102.02741.pdf)
+* [Learning Multivariate Hawkes Processes at Scale](https://arxiv.org/pdf/2002.12501v1.pdf)
+* [Latent Embeddings of Point Process Excitations](https://arxiv.org/pdf/2005.02515.pdf)
