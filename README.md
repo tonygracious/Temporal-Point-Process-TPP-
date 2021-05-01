@@ -13,6 +13,11 @@ This repository contains recent background materials, current works, and codes f
 
 * http://thinklab.sjtu.edu.cn/TPP_Tutor_KDD19.html
 
+# Packages
+
+* [PoPPy](https://github.com/HongtengXu/PoPPy)
+* [Tick](https://x-datainitiative.github.io/tick/)
+
 # Reading Materials
 
 * [Lecture Notes:Temporal Point Processes and the Conditional Intensity Function](https://arxiv.org/pdf/1806.00221.pdf)
@@ -27,3 +32,4 @@ This repository contains recent background materials, current works, and codes f
 * [Learning Multivariate Hawkes Processes at Scale, 2020](https://arxiv.org/pdf/2002.12501v1.pdf)
 * [Latent Embeddings of Point Process Excitations, 2020](https://arxiv.org/pdf/2005.02515.pdf)
 * [Neural Temporal Point Processes: A Review, 2021](https://arxiv.org/pdf/2104.03528.pdf)
+* [Hawkes process modeling of COVID-19 with mobility leading indicators and spatial covariates](https://www.medrxiv.org/content/10.1101/2020.06.06.20124149v2)
