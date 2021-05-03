@@ -17,6 +17,8 @@ This repository contains recent background materials, current works, and codes f
 
 * [PoPPy](https://github.com/HongtengXu/PoPPy)
 * [Tick](https://x-datainitiative.github.io/tick/)
+* [pyhawkes](https://github.com/slinderman/pyhawkes) 
+* [hawkes](https://github.com/stmorse/hawkes)
 
 # Reading Materials
 
