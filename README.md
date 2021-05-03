@@ -34,4 +34,4 @@ This repository contains recent background materials, current works, and codes f
 * [Learning Multivariate Hawkes Processes at Scale, 2020](https://arxiv.org/pdf/2002.12501v1.pdf)
 * [Latent Embeddings of Point Process Excitations, 2020](https://arxiv.org/pdf/2005.02515.pdf)
 * [Neural Temporal Point Processes: A Review, 2021](https://arxiv.org/pdf/2104.03528.pdf)
-* [Hawkes process modeling of COVID-19 with mobility leading indicators and spatial covariates](https://www.medrxiv.org/content/10.1101/2020.06.06.20124149v2) [code](https://github.com/chiangwe/HawkPR)
+* [Hawkes process modeling of COVID-19 with mobility leading indicators and spatial covariates, 2020](https://www.medrxiv.org/content/10.1101/2020.06.06.20124149v2) [ \[code\]](https://github.com/chiangwe/HawkPR)
