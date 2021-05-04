@@ -20,7 +20,7 @@ This repository contains recent background materials, current works, and codes f
 * [pyhawkes](https://github.com/slinderman/pyhawkes) 
 * [hawkes](https://github.com/stmorse/hawkes)
 
-# TPP on Graphs 
+# Datasets for TPP on Graphs  
 * [Higgs Twitter Dataset](https://snap.stanford.edu/data/higgs-twitter.html)
 * [Memetracker](https://snap.stanford.edu/data/memetracker9.html)
 
