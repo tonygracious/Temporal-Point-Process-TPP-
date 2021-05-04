@@ -20,6 +20,10 @@ This repository contains recent background materials, current works, and codes f
 * [pyhawkes](https://github.com/slinderman/pyhawkes) 
 * [hawkes](https://github.com/stmorse/hawkes)
 
+# TPP on Graphs 
+* [Higgs Twitter Dataset](https://snap.stanford.edu/data/higgs-twitter.html)
+* [Memetracker](https://snap.stanford.edu/data/memetracker9.html)
+
 # Reading Materials
 
 * [Lecture Notes:Temporal Point Processes and the Conditional Intensity Function](https://arxiv.org/pdf/1806.00221.pdf)
@@ -35,3 +39,4 @@ This repository contains recent background materials, current works, and codes f
 * [Latent Embeddings of Point Process Excitations, 2020](https://arxiv.org/pdf/2005.02515.pdf)
 * [Neural Temporal Point Processes: A Review, 2021](https://arxiv.org/pdf/2104.03528.pdf)
 * [Hawkes process modeling of COVID-19 with mobility leading indicators and spatial covariates, 2020](https://www.medrxiv.org/content/10.1101/2020.06.06.20124149v2) [ \[code\]](https://github.com/chiangwe/HawkPR)
+
