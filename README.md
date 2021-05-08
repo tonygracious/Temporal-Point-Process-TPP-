@@ -40,3 +40,4 @@ This repository contains recent background materials, current works, and codes f
 * [Neural Temporal Point Processes: A Review, 2021](https://arxiv.org/pdf/2104.03528.pdf)
 * [Hawkes process modeling of COVID-19 with mobility leading indicators and spatial covariates, 2020](https://www.medrxiv.org/content/10.1101/2020.06.06.20124149v2) [ \[code\]](https://github.com/chiangwe/HawkPR)
 * [CHIP: A Hawkes Process Model for Continuous-time Networks with Scalable and Consistent Estimation](https://papers.nips.cc/paper/2020/file/c5a0ac0e2f48af1a4e619e7036fe5977-Paper.pdf), NeurIPS 2020, [ \[code\]](https://github.com/IdeasLabUT/CHIP-Network-Model)
+* [Network Group Hawkes Process Model](https://arxiv.org/pdf/2002.08521.pdf), arXiv, 2020
