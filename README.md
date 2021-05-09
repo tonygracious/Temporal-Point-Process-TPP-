@@ -46,3 +46,4 @@ This repository contains recent background materials, current works, and codes f
 
 * [Neural Temporal Point Processes: A Review, 2021](https://arxiv.org/pdf/2104.03528.pdf)
 * [Neural Spatio-Temporal Point Process](https://arxiv.org/pdf/2011.04583.pdf), ICLR, 2021, [\[Code\]](https://github.com/facebookresearch/neural_stpp)
+* [Continuous-Time Dynamic Graph Learning via Neural Interaction Processes](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946), CIKM, 2020
