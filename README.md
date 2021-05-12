@@ -24,6 +24,13 @@ This repository contains recent background materials, current works, and codes f
 * [Higgs Twitter Dataset](https://snap.stanford.edu/data/higgs-twitter.html)
 * [Memetracker](https://snap.stanford.edu/data/memetracker9.html)
 
+# Datasets for Sapatio-Temporal Process
+## Bike Sharing Datasets
+* [Bike-Share Usage in London and Taipei Network](https://www.kaggle.com/ajohrn/bikeshare-usage-in-london-and-taipei-network)
+* [Citi-Bike](https://s3.amazonaws.com/tripdata/index.html)
+* [Captial-Bikeshare](https://www.capitalbikeshare.com/system-data)
+* [TFL](https://cycling.data.tfl.gov.uk/)
+
 # Reading Materials
 
 * [Lecture Notes:Temporal Point Processes and the Conditional Intensity Function](https://arxiv.org/pdf/1806.00221.pdf)
