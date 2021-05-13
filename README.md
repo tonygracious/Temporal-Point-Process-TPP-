@@ -57,3 +57,4 @@ This repository contains recent background materials, current works, and codes f
 * [Continuous-Time Dynamic Graph Learning via Neural Interaction Processes](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946), CIKM, 2020
 * [Neural Jump Stochastic Differential Equations](https://papers.nips.cc/paper/2019/file/59b1deff341edb0b76ace57820cef237-Paper.pdf),NeurIPS, 2019 [\[Code\]](https://github.com/000Justin000/torchdiffeq/tree/jj585)
 * [Neural Stochastic Differential Equations with Bayesian Jumps for Marked Temporal Point Process](https://rlair.cs.ucr.edu/papers/docs/odebayesmtpp.pdf),under review
+* [DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS](https://openreview.net/pdf?id=HyePrhR5KX), [\[Code\]](https://github.com/uoguelph-mlrg/LDG) ,ICLR, 2019
