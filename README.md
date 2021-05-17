@@ -43,6 +43,7 @@ This repository contains recent background materials, current works, and codes f
 ### Recent Papers: Statistical Models  
 
 * [Hawkes Processes on Graphons, 2021](https://arxiv.org/pdf/2102.02741.pdf)
+* [Mutually exciting point process graphs for modelling dynamic networks](https://arxiv.org/pdf/2102.06527.pdf), 2021, [\[Code\]](https://github.com/fraspass/meg)
 * [Learning Multivariate Hawkes Processes at Scale, 2020](https://arxiv.org/pdf/2002.12501v1.pdf)
 * [Latent Embeddings of Point Process Excitations, 2020](https://arxiv.org/pdf/2005.02515.pdf)
 * [Hawkes process modeling of COVID-19 with mobility leading indicators and spatial covariates, 2020](https://www.medrxiv.org/content/10.1101/2020.06.06.20124149v2) [ \[code\]](https://github.com/chiangwe/HawkPR)
