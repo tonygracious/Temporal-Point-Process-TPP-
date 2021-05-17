@@ -34,6 +34,7 @@ This repository contains recent background materials, current works, and codes f
 # Reading Materials
 
 * [Lecture Notes:Temporal Point Processes and the Conditional Intensity Function](https://arxiv.org/pdf/1806.00221.pdf)
+* [Thinning Algorithms for Simulating Point Processes](https://www.math.fsu.edu/~ychen/research/Thinning%20algorithm.pdf)
 
 ## Hawkes Process
 
