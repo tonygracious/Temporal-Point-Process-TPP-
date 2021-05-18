@@ -23,6 +23,8 @@ This repository contains recent background materials, current works, and codes f
 # Datasets for TPP on Graphs  
 * [Higgs Twitter Dataset](https://snap.stanford.edu/data/higgs-twitter.html)
 * [Memetracker](https://snap.stanford.edu/data/memetracker9.html)
+* [Github Events](https://github.com/uoguelph-mlrg/LDG.git)
+* [Social Evolution](http://realitycommons.media.mit.edu/socialevolution4.html)
 
 # Datasets for Spatio-Temporal Process
 * [Bike-Share Usage in London and Taipei Network](https://www.kaggle.com/ajohrn/bikeshare-usage-in-london-and-taipei-network)
