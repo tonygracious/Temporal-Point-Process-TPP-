@@ -55,6 +55,8 @@ This repository contains recent background materials, current works, and codes f
 * [CHIP: A Hawkes Process Model for Continuous-time Networks with Scalable and Consistent Estimation](https://papers.nips.cc/paper/2020/file/c5a0ac0e2f48af1a4e619e7036fe5977-Paper.pdf), NeurIPS 2020, [ \[code\]](https://github.com/IdeasLabUT/CHIP-Network-Model)
 * [Network Group Hawkes Process Model](https://arxiv.org/pdf/2002.08521.pdf), arXiv, 2020
 * [SIR-Hawkes: Linking Epidemic Models and Hawkes Processes to Model Diffusions in Finite Populations](https://arxiv.org/pdf/1711.01679.pdf), WWW, 2018, [\[Code\]](https://github.com/computationalmedia/sir-hawkes)
+* [Modeling the Dynamics of Online Learning Activity](https://arxiv.org/pdf/1610.05775.pdf), WWW, 2017, [\[Code\]](https://github.com/Networks-Learning/hdhp.py)
+* [](https://dl.acm.org/doi/pdf/10.1145/2783258.2783411), KDD, 2015, [\[Code\]](https://github.com/JFChi/Dirichlet-Hawkes-Process)
 
 ### Recent Papers: Deep Learning Models 
 
