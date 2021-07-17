@@ -72,3 +72,4 @@ This repository contains recent background materials, current works, and codes f
 * [Neural Jump Stochastic Differential Equations](https://papers.nips.cc/paper/2019/file/59b1deff341edb0b76ace57820cef237-Paper.pdf),NeurIPS, 2019 [\[Code\]](https://github.com/000Justin000/torchdiffeq/tree/jj585)
 * [Neural Stochastic Differential Equations with Bayesian Jumps for Marked Temporal Point Process](https://rlair.cs.ucr.edu/papers/docs/odebayesmtpp.pdf),under review
 * [DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS](https://openreview.net/pdf?id=HyePrhR5KX), [\[Code\]](https://github.com/uoguelph-mlrg/LDG) ,ICLR, 2019
+* [Fully Neural Network based Model for General Temporal Point Processes](https://arxiv.org/pdf/1905.09690.pdf), [\[Code\]](https://github.com/omitakahiro/NeuralNetworkPointProcess), Neurips 2019
