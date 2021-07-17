@@ -56,10 +56,10 @@ This repository contains recent background materials, current works, and codes f
 * [Network Group Hawkes Process Model](https://arxiv.org/pdf/2002.08521.pdf), arXiv, 2020
 * [SIR-Hawkes: Linking Epidemic Models and Hawkes Processes to Model Diffusions in Finite Populations](https://arxiv.org/pdf/1711.01679.pdf), WWW, 2018, [\[Code\]](https://github.com/computationalmedia/sir-hawkes)
 * [Modeling the Dynamics of Online Learning Activity](https://arxiv.org/pdf/1610.05775.pdf), WWW, 2017, [\[Code\]](https://github.com/Networks-Learning/hdhp.py)
-* [](https://dl.acm.org/doi/pdf/10.1145/2783258.2783411), KDD, 2015, [\[Code\]](https://github.com/JFChi/Dirichlet-Hawkes-Process)
+* [Dirichlet-Hawkes Processes with Applications to Clustering Continuous-Time Document Streams](https://dl.acm.org/doi/pdf/10.1145/2783258.2783411), KDD, 2015, [\[Code\]](https://github.com/JFChi/Dirichlet-Hawkes-Process)
 
 ### Recent Papers: Deep Learning Models 
-
+* [Learning Neural Point Processes with Latent Graphs, 2021, WWW](https://dl.acm.org/doi/pdf/10.1145/3442381.3450135)
 * [Neural Temporal Point Processes: A Review, 2021](https://arxiv.org/pdf/2104.03528.pdf)
 * [Neural Spatio-Temporal Point Process](https://arxiv.org/pdf/2011.04583.pdf), ICLR, 2021, [\[Code\]](https://github.com/facebookresearch/neural_stpp)
 * [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/pdf/2101.02815v2.pdf), WSDM, 2021
