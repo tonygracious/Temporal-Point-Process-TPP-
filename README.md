@@ -75,3 +75,4 @@ This repository contains recent background materials, current works, and codes f
 * [Neural Stochastic Differential Equations with Bayesian Jumps for Marked Temporal Point Process](https://rlair.cs.ucr.edu/papers/docs/odebayesmtpp.pdf),under review
 * [DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS](https://openreview.net/pdf?id=HyePrhR5KX), [\[Code\]](https://github.com/uoguelph-mlrg/LDG) ,ICLR, 2019
 * [Fully Neural Network based Model for General Temporal Point Processes](https://arxiv.org/pdf/1905.09690.pdf), [\[Code\]](https://github.com/omitakahiro/NeuralNetworkPointProcess), Neurips 2019
+* [Deep Mixture Point Processes: Spatio-temporal Event Prediction with Rich Contextual Information](https://dl.acm.org/doi/pdf/10.1145/3292500.3330937), KDD 2019
