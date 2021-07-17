@@ -45,6 +45,10 @@ This repository contains recent background materials, current works, and codes f
 ### Parameter Estimation
 * [A Nonparametric EM algorithm for Multiscale Hawkes Processes](http://paleo.sscnet.ucla.edu/Lewis-Molher-EM_Preprint.pdf), 2011
 
+### Survey Papers
+* [Neural Temporal Point Processes: A Review](https://arxiv.org/pdf/2104.03528.pdf)
+* [Recent Advance in Temporal Point Process: from Machine Learning Perspective](https://thinklab.sjtu.edu.cn/src/pp_survey.pdf)
+
 ### Recent Papers: Statistical Models  
 
 * [Hawkes Processes on Graphons, 2021](https://arxiv.org/pdf/2102.02741.pdf)
