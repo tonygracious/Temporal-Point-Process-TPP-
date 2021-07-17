@@ -46,8 +46,8 @@ This repository contains recent background materials, current works, and codes f
 * [A Nonparametric EM algorithm for Multiscale Hawkes Processes](http://paleo.sscnet.ucla.edu/Lewis-Molher-EM_Preprint.pdf), 2011
 
 ### Survey Papers
-* [Neural Temporal Point Processes: A Review](https://arxiv.org/pdf/2104.03528.pdf)
-* [Recent Advance in Temporal Point Process: from Machine Learning Perspective](https://thinklab.sjtu.edu.cn/src/pp_survey.pdf)
+* [Neural Temporal Point Processes: A Review](https://arxiv.org/pdf/2104.03528.pdf), 2021
+* [Recent Advance in Temporal Point Process: from Machine Learning Perspective](https://thinklab.sjtu.edu.cn/src/pp_survey.pdf), 2019
 
 ### Recent Papers: Statistical Models  
 
@@ -65,7 +65,9 @@ This repository contains recent background materials, current works, and codes f
 
 ### Recent Papers: Deep Learning Models 
 * [Learning Neural Point Processes with Latent Graphs, 2021, WWW](https://dl.acm.org/doi/pdf/10.1145/3442381.3450135)
+* [Dynamic Hawkes Processes for Discovering Time-evolving Communities’ States behind Diffusion Processes](https://arxiv.org/pdf/2105.11152.pdf), KDD, 2021
 * [Neural Temporal Point Processes: A Review, 2021](https://arxiv.org/pdf/2104.03528.pdf)
+* [Deep Structural Point Process for Learning Temporal Interaction Networks](https://arxiv.org/pdf/2107.03573.pdf), PKDD,2021
 * [Neural Spatio-Temporal Point Process](https://arxiv.org/pdf/2011.04583.pdf), ICLR, 2021, [\[Code\]](https://github.com/facebookresearch/neural_stpp)
 * [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/pdf/2101.02815v2.pdf), WSDM, 2021
 * [Continuous-Time Dynamic Graph Learning via Neural Interaction Processes](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946), CIKM, 2020
