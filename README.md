@@ -72,6 +72,8 @@ This repository contains recent background materials, current works, and codes f
 * [Deep Structural Point Process for Learning Temporal Interaction Networks](https://arxiv.org/pdf/2107.03573.pdf), PKDD,2021
 * [Neural Spatio-Temporal Point Process](https://arxiv.org/pdf/2011.04583.pdf), ICLR, 2021, [\[Code\]](https://github.com/facebookresearch/neural_stpp)
 * [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/pdf/2101.02815v2.pdf), WSDM, 2021
+* [Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/4416), AAAI, 2020
+* [List-wise Fairness Criterion for Point Processes](https://dl.acm.org/doi/pdf/10.1145/3394486.3403246), KDD, 2020
 * [Continuous-Time Dynamic Graph Learning via Neural Interaction Processes](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946), CIKM, 2020
 * [Neural Jump Stochastic Differential Equations](https://papers.nips.cc/paper/2019/file/59b1deff341edb0b76ace57820cef237-Paper.pdf),NeurIPS, 2019 [\[Code\]](https://github.com/000Justin000/torchdiffeq/tree/jj585)
 * [Neural Stochastic Differential Equations with Bayesian Jumps for Marked Temporal Point Process](https://rlair.cs.ucr.edu/papers/docs/odebayesmtpp.pdf),under review
