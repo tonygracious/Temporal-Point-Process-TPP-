@@ -61,6 +61,7 @@ This repository contains recent background materials, current works, and codes f
 * [Meta Learning with Relational Information for Short Sequences](https://papers.nips.cc/paper/2019/file/6fe43269967adbb64ec6149852b5cc3e-Paper.pdf),  (NeurIPS 2019
 * [SIR-Hawkes: Linking Epidemic Models and Hawkes Processes to Model Diffusions in Finite Populations](https://arxiv.org/pdf/1711.01679.pdf), WWW, 2018, [\[Code\]](https://github.com/computationalmedia/sir-hawkes)
 * [Modeling the Dynamics of Online Learning Activity](https://arxiv.org/pdf/1610.05775.pdf), WWW, 2017, [\[Code\]](https://github.com/Networks-Learning/hdhp.py)
+* [NetCodec: Community Detection from Individual Activities](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974010.11), SDM, 2015
 * [Dirichlet-Hawkes Processes with Applications to Clustering Continuous-Time Document Streams](https://dl.acm.org/doi/pdf/10.1145/2783258.2783411), KDD, 2015, [\[Code\]](https://github.com/JFChi/Dirichlet-Hawkes-Process)
 * [Discovering Latent Network Structure in Point Process Data](https://scholar.harvard.edu/files/hips/files/linderman-networks-icml-2014.pdf), ICML, 2014
 
