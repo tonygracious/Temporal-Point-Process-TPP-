@@ -70,18 +70,7 @@ This repository contains recent background materials, current works, and codes f
 
 
 ### Recent Papers: Deep Learning Models 
-* [Detecting Anomalous Event Sequences with Temporal Point Processes](https://papers.nips.cc/paper/2021/file/6faa8040da20ef399b63a72d0e4ab575-Paper.pdf), ,NeurIPS, 2021 [\[Code\]](https://github.com/shchur/tpp-anomaly-detection)
-* [Learning to Select Exogenous Events for Marked Temporal Point Process](https://papers.nips.cc/paper/2021/file/032abcd424b4312e7087f434ef1c0094-Paper.pdf) , ,NeurIPS, 2021 [\[Code\]](https://github.com/noilreed/TPP-Select)
-* [VigDet: Knowledge Informed Neural Temporal Point Process for Coordination Detection on Social Media](https://papers.nips.cc/paper/2021/file/1a344877f11195aaf947ccfe48ee9c89-Paper.pdf) ,NeurIPS, 2021
-* [Learning Neural Point Processes with Latent Graphs, 2021, WWW](https://dl.acm.org/doi/pdf/10.1145/3442381.3450135)
-* [Dynamic Hawkes Processes for Discovering Time-evolving Communities’ States behind Diffusion Processes](https://arxiv.org/pdf/2105.11152.pdf), KDD, 2021
-* [Neural Temporal Point Processes: A Review, 2021](https://arxiv.org/pdf/2104.03528.pdf)
-* [Deep Structural Point Process for Learning Temporal Interaction Networks](https://arxiv.org/pdf/2107.03573.pdf), PKDD,2021
-* [Neural Spatio-Temporal Point Process](https://arxiv.org/pdf/2011.04583.pdf), ICLR, 2021, [\[Code\]](https://github.com/facebookresearch/neural_stpp)
-* [Long Horizon Forecasting With Temporal Point Processes](https://arxiv.org/pdf/2101.02815v2.pdf), WSDM, 2021
-* [Geometric Hawkes Processes with Graph Convolutional Recurrent Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/4416), AAAI, 2020
-* [List-wise Fairness Criterion for Point Processes](https://dl.acm.org/doi/pdf/10.1145/3394486.3403246), KDD, 2020
-* [Continuous-Time Dynamic Graph Learning via Neural Interaction Processes](https://dl.acm.org/doi/pdf/10.1145/3340531.3411946), CIKM, 2020
+* [2021](/Recent%20Papers/Deep%20Learning%20Models/2021.md) |  [2020](/Recent%20Papers/Deep%20Learning%20Models/2020.md) 
 * [Neural Jump Stochastic Differential Equations](https://papers.nips.cc/paper/2019/file/59b1deff341edb0b76ace57820cef237-Paper.pdf),NeurIPS, 2019 [\[Code\]](https://github.com/000Justin000/torchdiffeq/tree/jj585)
 * [Neural Stochastic Differential Equations with Bayesian Jumps for Marked Temporal Point Process](https://rlair.cs.ucr.edu/papers/docs/odebayesmtpp.pdf),under review
 * [DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS](https://openreview.net/pdf?id=HyePrhR5KX), [\[Code\]](https://github.com/uoguelph-mlrg/LDG) ,ICLR, 2019
