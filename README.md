@@ -50,7 +50,10 @@ This repository contains recent background materials, current works, and codes f
 * [Recent Advance in Temporal Point Process: from Machine Learning Perspective](https://thinklab.sjtu.edu.cn/src/pp_survey.pdf), 2019
 
 ### Recent Papers: Statistical Models  
-
+* [Row-clustering of a Point Process-valued Matrix,NeurIPS, 2021](https://papers.nips.cc/paper/2021/file/a6a38989dc7e433f1f42388e7afca318-Paper.pdf)
+* [Causal Inference for Event Pairs in Multivariate Point Processes,NeurIPS, 2021](https://papers.nips.cc/paper/2021/file/9078f2a8254704bd760460f027072e52-Paper.pdf)
+* [Continuous-time edge modelling using non-parametric point processes,NeurIPS, 2021](https://papers.nips.cc/paper/2021/file/1301962d8b7bd03fffaa27119aa7fc2b-Paper.pdf)
+* [Self-Adaptable Point Processes with Nonparametric Time Decays,NeurIPS,2021](https://papers.nips.cc/paper/2021/file/243facb29564e7b448834a7c9d901201-Paper.pdf)
 * [Hawkes Processes on Graphons, 2021](https://arxiv.org/pdf/2102.02741.pdf)
 * [Mutually exciting point process graphs for modelling dynamic networks](https://arxiv.org/pdf/2102.06527.pdf), 2021, [\[Code\]](https://github.com/fraspass/meg)
 * [Learning Multivariate Hawkes Processes at Scale, 2020](https://arxiv.org/pdf/2002.12501v1.pdf)
@@ -67,6 +70,9 @@ This repository contains recent background materials, current works, and codes f
 
 
 ### Recent Papers: Deep Learning Models 
+* [Detecting Anomalous Event Sequences with Temporal Point Processes,NeurIPS, 2021](https://papers.nips.cc/paper/2021/file/6faa8040da20ef399b63a72d0e4ab575-Paper.pdf), [\[Code\]](https://github.com/shchur/tpp-anomaly-detection)
+* [Learning to Select Exogenous Events for Marked Temporal Point Process,NeurIPS, 2021](https://papers.nips.cc/paper/2021/file/032abcd424b4312e7087f434ef1c0094-Paper.pdf) , [\[Code\]](https://github.com/noilreed/TPP-Select)
+* [VigDet: Knowledge Informed Neural Temporal Point Process for Coordination Detection on Social Media,NeurIPS, 2021](https://papers.nips.cc/paper/2021/file/1a344877f11195aaf947ccfe48ee9c89-Paper.pdf), 
 * [Learning Neural Point Processes with Latent Graphs, 2021, WWW](https://dl.acm.org/doi/pdf/10.1145/3442381.3450135)
 * [Dynamic Hawkes Processes for Discovering Time-evolving Communities’ States behind Diffusion Processes](https://arxiv.org/pdf/2105.11152.pdf), KDD, 2021
 * [Neural Temporal Point Processes: A Review, 2021](https://arxiv.org/pdf/2104.03528.pdf)
