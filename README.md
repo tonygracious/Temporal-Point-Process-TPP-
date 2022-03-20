@@ -5,6 +5,11 @@ This repository contains recent background materials, current works, and codes f
 # Courses
 * http://courses.mpi-sws.org/hcml-ws18/schedule.html
 
+# Reading Materials
+
+* [Lecture Notes:Temporal Point Processes and the Conditional Intensity Function](https://arxiv.org/pdf/1806.00221.pdf)
+* [Thinning Algorithms for Simulating Point Processes](https://www.math.fsu.edu/~ychen/research/Thinning%20algorithm.pdf)
+
 # Conference Workshops
 
 * http://learning.mpi-sws.org/tpp-icml18/
@@ -13,12 +18,20 @@ This repository contains recent background materials, current works, and codes f
 
 * http://thinklab.sjtu.edu.cn/TPP_Tutor_KDD19.html
 
+### Recent Papers: Statistical Models  
+* [2021](/Recent%20Papers/Statistical%20Models/2021.md) | [2020](/Recent%20Papers/Statistical%20Models/2020.md) |[2019>](/Recent%20Papers/Statistical%20Models/2019>.md)
+
+### Recent Papers: Deep Learning Models 
+* [2021](/Recent%20Papers/Deep%20Learning%20Models/2021.md) |  [2020](/Recent%20Papers/Deep%20Learning%20Models/2020.md) | [2019](/Recent%20Papers/Deep%20Learning%20Models/2019.md)
+
+### Survey Papers
+* [Neural Temporal Point Processes: A Review](https://arxiv.org/pdf/2104.03528.pdf), 2021
+* [Recent Advance in Temporal Point Process: from Machine Learning Perspective](https://thinklab.sjtu.edu.cn/src/pp_survey.pdf), 2019
+
+
 # Packages
 
-* [PoPPy](https://github.com/HongtengXu/PoPPy)
-* [Tick](https://x-datainitiative.github.io/tick/)
-* [pyhawkes](https://github.com/slinderman/pyhawkes) 
-* [hawkes](https://github.com/stmorse/hawkes)
+* [PoPPy](https://github.com/HongtengXu/PoPPy) | [Tick](https://x-datainitiative.github.io/tick/) | [pyhawkes](https://github.com/slinderman/pyhawkes) | [hawkes](https://github.com/stmorse/hawkes)
 
 # Datasets for TPP on Graphs  
 * [Higgs Twitter Dataset](https://snap.stanford.edu/data/higgs-twitter.html)
@@ -33,10 +46,6 @@ This repository contains recent background materials, current works, and codes f
 * [TFL](https://cycling.data.tfl.gov.uk/)
 * [Emergency - 911 Calls](https://www.kaggle.com/mchirico/montcoalert)
 
-# Reading Materials
-
-* [Lecture Notes:Temporal Point Processes and the Conditional Intensity Function](https://arxiv.org/pdf/1806.00221.pdf)
-* [Thinning Algorithms for Simulating Point Processes](https://www.math.fsu.edu/~ychen/research/Thinning%20algorithm.pdf)
 
 ## Hawkes Process
 
@@ -45,13 +54,4 @@ This repository contains recent background materials, current works, and codes f
 ### Parameter Estimation
 * [A Nonparametric EM algorithm for Multiscale Hawkes Processes](http://paleo.sscnet.ucla.edu/Lewis-Molher-EM_Preprint.pdf), 2011
 
-### Survey Papers
-* [Neural Temporal Point Processes: A Review](https://arxiv.org/pdf/2104.03528.pdf), 2021
-* [Recent Advance in Temporal Point Process: from Machine Learning Perspective](https://thinklab.sjtu.edu.cn/src/pp_survey.pdf), 2019
-
-### Recent Papers: Statistical Models  
-* [2021](/Recent%20Papers/Statistical%20Models/2021.md) | [2020](/Recent%20Papers/Statistical%20Models/2020.md) |[2019>](/Recent%20Papers/Statistical%20Models/2019>.md)
-
-### Recent Papers: Deep Learning Models 
-* [2021](/Recent%20Papers/Deep%20Learning%20Models/2021.md) |  [2020](/Recent%20Papers/Deep%20Learning%20Models/2020.md) | [2019](/Recent%20Papers/Deep%20Learning%20Models/2019.md)
 
