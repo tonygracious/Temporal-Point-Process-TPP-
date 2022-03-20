@@ -50,24 +50,7 @@ This repository contains recent background materials, current works, and codes f
 * [Recent Advance in Temporal Point Process: from Machine Learning Perspective](https://thinklab.sjtu.edu.cn/src/pp_survey.pdf), 2019
 
 ### Recent Papers: Statistical Models  
-* [Row-clustering of a Point Process-valued Matrix](https://papers.nips.cc/paper/2021/file/a6a38989dc7e433f1f42388e7afca318-Paper.pdf) ,NeurIPS, 2021
-* [Causal Inference for Event Pairs in Multivariate Point Processes](https://papers.nips.cc/paper/2021/file/9078f2a8254704bd760460f027072e52-Paper.pdf) ,NeurIPS, 2021
-* [Continuous-time edge modelling using non-parametric point processes](https://papers.nips.cc/paper/2021/file/1301962d8b7bd03fffaa27119aa7fc2b-Paper.pdf),NeurIPS, 2021
-* [Self-Adaptable Point Processes with Nonparametric Time Decays](https://papers.nips.cc/paper/2021/file/243facb29564e7b448834a7c9d901201-Paper.pdf),NeurIPS,2021
-* [Hawkes Processes on Graphons, 2021](https://arxiv.org/pdf/2102.02741.pdf)
-* [Mutually exciting point process graphs for modelling dynamic networks](https://arxiv.org/pdf/2102.06527.pdf), 2021, [\[Code\]](https://github.com/fraspass/meg)
-* [Learning Multivariate Hawkes Processes at Scale, 2020](https://arxiv.org/pdf/2002.12501v1.pdf)
-* [Latent Embeddings of Point Process Excitations, 2020](https://arxiv.org/pdf/2005.02515.pdf)
-* [Hawkes process modeling of COVID-19 with mobility leading indicators and spatial covariates, 2020](https://www.medrxiv.org/content/10.1101/2020.06.06.20124149v2) [ \[code\]](https://github.com/chiangwe/HawkPR)
-* [CHIP: A Hawkes Process Model for Continuous-time Networks with Scalable and Consistent Estimation](https://papers.nips.cc/paper/2020/file/c5a0ac0e2f48af1a4e619e7036fe5977-Paper.pdf), NeurIPS 2020, [ \[code\]](https://github.com/IdeasLabUT/CHIP-Network-Model)
-* [Network Group Hawkes Process Model](https://arxiv.org/pdf/2002.08521.pdf), arXiv, 2020
-* [Meta Learning with Relational Information for Short Sequences](https://papers.nips.cc/paper/2019/file/6fe43269967adbb64ec6149852b5cc3e-Paper.pdf),  (NeurIPS 2019
-* [SIR-Hawkes: Linking Epidemic Models and Hawkes Processes to Model Diffusions in Finite Populations](https://arxiv.org/pdf/1711.01679.pdf), WWW, 2018, [\[Code\]](https://github.com/computationalmedia/sir-hawkes)
-* [Modeling the Dynamics of Online Learning Activity](https://arxiv.org/pdf/1610.05775.pdf), WWW, 2017, [\[Code\]](https://github.com/Networks-Learning/hdhp.py)
-* [NetCodec: Community Detection from Individual Activities](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974010.11), SDM, 2015
-* [Dirichlet-Hawkes Processes with Applications to Clustering Continuous-Time Document Streams](https://dl.acm.org/doi/pdf/10.1145/2783258.2783411), KDD, 2015, [\[Code\]](https://github.com/JFChi/Dirichlet-Hawkes-Process)
-* [Discovering Latent Network Structure in Point Process Data](https://scholar.harvard.edu/files/hips/files/linderman-networks-icml-2014.pdf), ICML, 2014
-
+* [2021](/Recent%20Papers/Statistical%20Models/2021.md) | [2020](/Recent%20Papers/Statistical%20Models/2020.md) |[2019>(/Recent%20Papers/Statistical%20Models/2019>.md)
 
 ### Recent Papers: Deep Learning Models 
 * [2021](/Recent%20Papers/Deep%20Learning%20Models/2021.md) |  [2020](/Recent%20Papers/Deep%20Learning%20Models/2020.md) | [2019](/Recent%20Papers/Deep%20Learning%20Models/2019.md)
