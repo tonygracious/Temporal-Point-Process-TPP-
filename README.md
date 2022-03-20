@@ -9,6 +9,8 @@ This repository contains recent background materials, current works, and codes f
 
 * [Lecture Notes:Temporal Point Processes and the Conditional Intensity Function](https://arxiv.org/pdf/1806.00221.pdf)
 * [Thinning Algorithms for Simulating Point Processes](https://www.math.fsu.edu/~ychen/research/Thinning%20algorithm.pdf)
+* [Hawkes Processes](https://arxiv.org/pdf/1507.02822.pdf)
+* [A Nonparametric EM algorithm for Multiscale Hawkes Processes](http://paleo.sscnet.ucla.edu/Lewis-Molher-EM_Preprint.pdf), 2011
 
 # Conference Workshops
 
@@ -34,24 +36,10 @@ This repository contains recent background materials, current works, and codes f
 * [PoPPy](https://github.com/HongtengXu/PoPPy) | [Tick](https://x-datainitiative.github.io/tick/) | [pyhawkes](https://github.com/slinderman/pyhawkes) | [hawkes](https://github.com/stmorse/hawkes)
 
 # Datasets for TPP on Graphs  
-* [Higgs Twitter Dataset](https://snap.stanford.edu/data/higgs-twitter.html)
-* [Memetracker](https://snap.stanford.edu/data/memetracker9.html)
-* [Github Events](https://github.com/uoguelph-mlrg/LDG.git)
-* [Social Evolution](http://realitycommons.media.mit.edu/socialevolution4.html)
+* [Higgs Twitter Dataset](https://snap.stanford.edu/data/higgs-twitter.html) | [Memetracker](https://snap.stanford.edu/data/memetracker9.html) | [Github Events](https://github.com/uoguelph-mlrg/LDG.git) | [Social Evolution](http://realitycommons.media.mit.edu/socialevolution4.html)
 
 # Datasets for Spatio-Temporal Process
-* [Bike-Share Usage in London and Taipei Network](https://www.kaggle.com/ajohrn/bikeshare-usage-in-london-and-taipei-network)
-* [Citi-Bike](https://s3.amazonaws.com/tripdata/index.html)
-* [Captial-Bikeshare](https://www.capitalbikeshare.com/system-data)
-* [TFL](https://cycling.data.tfl.gov.uk/)
-* [Emergency - 911 Calls](https://www.kaggle.com/mchirico/montcoalert)
+* [Bike-Share Usage in London and Taipei Network](https://www.kaggle.com/ajohrn/bikeshare-usage-in-london-and-taipei-network) | [Citi-Bike](https://s3.amazonaws.com/tripdata/index.html) | [Captial-Bikeshare](https://www.capitalbikeshare.com/system-data) | [TFL](https://cycling.data.tfl.gov.uk/) |  [Emergency - 911 Calls](https://www.kaggle.com/mchirico/montcoalert)
 
-
-## Hawkes Process
-
-* [Hawkes Processes](https://arxiv.org/pdf/1507.02822.pdf)
-
-### Parameter Estimation
-* [A Nonparametric EM algorithm for Multiscale Hawkes Processes](http://paleo.sscnet.ucla.edu/Lewis-Molher-EM_Preprint.pdf), 2011
 
 
