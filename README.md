@@ -50,7 +50,7 @@ This repository contains recent background materials, current works, and codes f
 * [Recent Advance in Temporal Point Process: from Machine Learning Perspective](https://thinklab.sjtu.edu.cn/src/pp_survey.pdf), 2019
 
 ### Recent Papers: Statistical Models  
-* [2021](/Recent%20Papers/Statistical%20Models/2021.md) | [2020](/Recent%20Papers/Statistical%20Models/2020.md) |[2019>(/Recent%20Papers/Statistical%20Models/2019>.md)
+* [2021](/Recent%20Papers/Statistical%20Models/2021.md) | [2020](/Recent%20Papers/Statistical%20Models/2020.md) |[2019>](/Recent%20Papers/Statistical%20Models/2019>.md)
 
 ### Recent Papers: Deep Learning Models 
 * [2021](/Recent%20Papers/Deep%20Learning%20Models/2021.md) |  [2020](/Recent%20Papers/Deep%20Learning%20Models/2020.md) | [2019](/Recent%20Papers/Deep%20Learning%20Models/2019.md)
