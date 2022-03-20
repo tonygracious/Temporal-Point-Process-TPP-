@@ -70,9 +70,5 @@ This repository contains recent background materials, current works, and codes f
 
 
 ### Recent Papers: Deep Learning Models 
-* [2021](/Recent%20Papers/Deep%20Learning%20Models/2021.md) |  [2020](/Recent%20Papers/Deep%20Learning%20Models/2020.md) 
-* [Neural Jump Stochastic Differential Equations](https://papers.nips.cc/paper/2019/file/59b1deff341edb0b76ace57820cef237-Paper.pdf),NeurIPS, 2019 [\[Code\]](https://github.com/000Justin000/torchdiffeq/tree/jj585)
-* [Neural Stochastic Differential Equations with Bayesian Jumps for Marked Temporal Point Process](https://rlair.cs.ucr.edu/papers/docs/odebayesmtpp.pdf),under review
-* [DYREP: LEARNING REPRESENTATIONS OVER DYNAMIC GRAPHS](https://openreview.net/pdf?id=HyePrhR5KX), [\[Code\]](https://github.com/uoguelph-mlrg/LDG) ,ICLR, 2019
-* [Fully Neural Network based Model for General Temporal Point Processes](https://arxiv.org/pdf/1905.09690.pdf), [\[Code\]](https://github.com/omitakahiro/NeuralNetworkPointProcess), Neurips 2019
-* [Deep Mixture Point Processes: Spatio-temporal Event Prediction with Rich Contextual Information](https://dl.acm.org/doi/pdf/10.1145/3292500.3330937), KDD 2019
+* [2021](/Recent%20Papers/Deep%20Learning%20Models/2021.md) |  [2020](/Recent%20Papers/Deep%20Learning%20Models/2020.md) | [2019](/Recent%20Papers/Deep%20Learning%20Models/2019.md)
+
