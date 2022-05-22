@@ -21,7 +21,7 @@ This repository contains recent background materials, current works, and codes f
 * http://thinklab.sjtu.edu.cn/TPP_Tutor_KDD19.html
 
 ### Recent Papers: Statistical Models  
-* [2021](/Recent%20Papers/Statistical%20Models/2021.md) | [2020](/Recent%20Papers/Statistical%20Models/2020.md) |[2019>](/Recent%20Papers/Statistical%20Models/2019>.md)
+* [2022](/Recent%20Papers/Statistical%20Models/2022.md)| [2021](/Recent%20Papers/Statistical%20Models/2021.md) | [2020](/Recent%20Papers/Statistical%20Models/2020.md) |[2019>](/Recent%20Papers/Statistical%20Models/2019>.md)
 
 ### Recent Papers: Deep Learning Models 
 *  [2022](/Recent%20Papers/Deep%20Learning%20Models/2022.md) | [2021](/Recent%20Papers/Deep%20Learning%20Models/2021.md) |  [2020](/Recent%20Papers/Deep%20Learning%20Models/2020.md) | [2019](/Recent%20Papers/Deep%20Learning%20Models/2019.md)
