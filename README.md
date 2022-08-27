@@ -28,6 +28,9 @@ This repository contains recent background materials, current works, and codes f
 
 ### Recent Papers: Reinforcement Learning
 * [2022](/Recent%20Papers/Reinforcement%20Learning/2022.md) | [2019](/Recent%20Papers/Reinforcement%20Learning/2019>.md)
+### Recent Papers: Finance
+* [2022>](Recent%20Papers/Finance/2022>.md)
+
 ### Survey Papers
 * [Neural Temporal Point Processes: A Review](https://arxiv.org/pdf/2104.03528.pdf), 2021
 * [Recent Advance in Temporal Point Process: from Machine Learning Perspective](https://thinklab.sjtu.edu.cn/src/pp_survey.pdf), 2019
