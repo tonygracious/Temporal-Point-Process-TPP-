@@ -31,10 +31,12 @@ This repository contains recent background materials, current works, and codes f
 ### Recent Papers: Finance
 * [2022>](Recent%20Papers/Finance/2022>.md)
 
+### Recent Papers: Causal Inference
+* [2022](Recent%20Papers/Causal%20Inference/2022.md)
+
 ### Survey Papers
 * [Neural Temporal Point Processes: A Review](https://arxiv.org/pdf/2104.03528.pdf), 2021
 * [Recent Advance in Temporal Point Process: from Machine Learning Perspective](https://thinklab.sjtu.edu.cn/src/pp_survey.pdf), 2019
-
 
 # Packages
 
